@@ -1,0 +1,6 @@
+{
+  "blynk_server": "127.0.0.1",
+  "blynk_port": 8080,
+  "blynk_key": "mydeviceauthkey",
+  "hue": 0.0
+}

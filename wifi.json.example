@@ -1,0 +1,12 @@
+{
+  "networks": [
+    {
+      "ssid": "neta",
+      "key": "passa"
+    },
+    {
+      "ssid": "netb",
+      "key": "passb"
+    }
+  ]
+}
